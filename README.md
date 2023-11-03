@@ -1,2 +1,2 @@
 # Pruebas
-Repositorio de pruebas para quantum
+Repositorio de pruebas de Marzy
